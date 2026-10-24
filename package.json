@@ -1,0 +1,23 @@
+{
+  "name": "graphenix-task-node-format-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/graphenix-task-node-format: validate a task node from a reference authoring graph.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/graphenix-task-node-format": "2.17.0",
+    "@x12i/graphenix-authoring-format": "2.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/graphenix-task-node-format.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/graphenix-task-node-format"
+}

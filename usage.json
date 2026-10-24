@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/graphenix-task-node-format",
+  "packageVersion": "2.17.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/graphenix-task-node-format",
+  "usageRepository": "https://github.com/x12i-sdk/graphenix-task-node-format",
+  "sourceRepository": "https://github.com/x12i/graphenix-format",
+  "sourceCommit": "28599719bd064429c220df35e297d299f81bbb40",
+  "sourcePackageDirectory": "packages/task-node-format",
+  "example": {
+    "title": "Validate a task node from a reference authoring graph",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:57:11.412079+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "60b64c156017761e0974f9ef589b27f381d22d0d77f45558dc112d03977fcf04",
+    "manifestSha256": "40b67c00e2fb4e1e8e7025d0a05bf3aeeb070dc893e8523294c51fa6492871fd"
+  }
+}
